@@ -1,5 +1,9 @@
 package com.visionit.calc;
-
+/**
+ * 
+ * @author snehal
+ *
+ */
 public class CalcApp {
 	
 	static int num1;
